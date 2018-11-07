@@ -97,7 +97,7 @@
  .testimonials p {
  font-size: 12px;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 340px) {
  .banner-text {
  padding-top: 55%;
 }
@@ -107,4 +107,13 @@
  .testimonials p {
  font-size: 12px;
 }
+    
+    #header .logo {
+        float: left;
+        font-size: 19px;
+        font-weight: 700;
+        color: #fff;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
 }
